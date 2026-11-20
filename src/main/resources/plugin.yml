@@ -1,0 +1,6 @@
+name: EvolvingDungeon
+version: '${version}'
+
+main: dev.marvin.evolvingdungeon.EvolvingDungeon
+api-version: '26.3'
+load: POSTWORLD
